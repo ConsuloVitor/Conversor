@@ -1,4 +1,4 @@
-# Conversor de Moedas
+<h1 aligne = "center">Conversor de Moedas</h1>
 
 Este é um projeto simples de um Conversor de Moedas desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários insiram um valor e convertam entre três moedas: Dólar (USD), Euro (EUR) e Real (BRL).
 
@@ -50,4 +50,4 @@ As taxas de câmbio são fixas e podem não refletir as taxas reais de mercado.
 
 Sinta-se à vontade para contribuir com melhorias para o projeto! Faça um fork e submeta um pull request com suas modificações.
 
----
+---g
