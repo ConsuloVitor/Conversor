@@ -1,4 +1,6 @@
-<h1 aligne = "center">Conversor de Moedas</h1>
+<h1 align = "center">Conversor de Moedas</h1>
+
+![image](https://github.com/user-attachments/assets/fb1f477c-22ae-46ca-9dff-743061d6e36a)
 
 Este é um projeto simples de um Conversor de Moedas desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários insiram um valor e convertam entre três moedas: Dólar (USD), Euro (EUR) e Real (BRL).
 
@@ -38,9 +40,9 @@ Para converter 100 BRL para USD, insira "100" no campo de valor, selecione "BRL"
 
 ## Tecnologias Utilizadas
 
-- **HTML5** para estrutura da página.
-- **CSS3** para estilos.
-- **JavaScript** para lógica de conversão de moedas.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Observações
 
@@ -49,5 +51,3 @@ As taxas de câmbio são fixas e podem não refletir as taxas reais de mercado.
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias para o projeto! Faça um fork e submeta um pull request com suas modificações.
-
----g
